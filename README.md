@@ -1,2 +1,8 @@
 # Automated-Form-Submission-using-Selenium-WebDriver
-Use Selenium WebDriver for automating form submission on a web page
+ Python script that use Selenium WebDriver for automating form submission on a web page. The script is designed to interact with a specific web page (http://secure-retreat-92358.herokuapp.com/) where it locates input fields for first name, last name, and email, fills them with predefined data, and submits the form.
+
+
+## Usage:
+
+-Useful for anyone needing to automate the process of filling and submitting forms on web pages.
+-It demonstrates the usage of Selenium WebDriver for web automation tasks.
