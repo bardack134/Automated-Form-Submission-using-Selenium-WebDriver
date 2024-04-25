@@ -8,3 +8,4 @@
 -Useful for anyone needing to automate the process of filling and submitting forms on web pages.
 
 -It demonstrates the usage of Selenium WebDriver for web automation tasks.
+![スクリーンショット 2024-04-25 163612](https://github.com/bardack134/Automated-Form-Submission-using-Selenium-WebDriver/assets/142977989/ffcd8ac9-90ed-4d9a-b7f1-b62dc9608369)
