@@ -3,6 +3,6 @@
 
 
 ## Usage:
-
+-This script is just a basic example of using Selenium 
 -Useful for anyone needing to automate the process of filling and submitting forms on web pages.
 -It demonstrates the usage of Selenium WebDriver for web automation tasks.
